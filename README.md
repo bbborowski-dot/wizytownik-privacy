@@ -9,7 +9,7 @@ skanera wizytówek i menedżera kontaktów na Androida, działającego
 
 ## 🔗 Live policy / Opublikowana polityka
 
-👉 https://TWOJANAZWA.github.io/wizytownik-privacy/
+👉 https://bbborowski-dot.github.io/wizytownik-privacy/
 
 *(Replace with your actual GitHub Pages URL once published. /
 Podmień na właściwy adres GitHub Pages po publikacji.)*
